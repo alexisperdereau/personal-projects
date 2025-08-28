@@ -1,0 +1,41 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.whl
+
+# --------------------
+# Virtual environments
+# --------------------
+envs/
+finance-venv/
+.venv/
+
+# --------------------
+# MacOS
+# --------------------
+.DS_Store
+
+# --------------------
+# Logs, temporary files
+# --------------------
+*.log
+*.tmp
+*.swp
+
+# --------------------
+# Local/project notes
+# --------------------
+ROADMAP.md
+NOTES_LOCAL.md
+
+# --------------------
+# IDEs / Editors
+# --------------------
+.vscode/
+.idea/

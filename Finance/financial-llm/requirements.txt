@@ -1,0 +1,24 @@
+# PDF extraction
+pdfplumber>=0.9.0
+
+# Financial data APIs
+yfinance>=0.2.24
+
+# NLP & LLM
+transformers>=4.40.0
+sentence-transformers>=2.2.2
+huggingface_hub>=0.17.4
+
+# Vector search
+faiss-cpu>=1.7.4
+
+# Web interface
+streamlit>=1.28.0
+fastapi>=0.109.0
+uvicorn>=0.24.0
+
+# Optional utilities
+langchain>=0.1.0
+numpy>=1.26.0
+pandas>=2.1.0
+requests>=2.32.0
